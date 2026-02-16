@@ -7,7 +7,7 @@ class AppTheme {
     return ThemeData(
       primaryColor: AppColors.primaryBlue,
       scaffoldBackgroundColor: AppColors.backgroundColor,
-      fontFamily: 'Inter',
+      fontFamily: 'Montserrat',
       useMaterial3: true,
       appBarTheme: const AppBarTheme(
         backgroundColor: Colors.transparent,
